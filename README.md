@@ -1,6 +1,7 @@
 # ya_test
 
 [источник](https://practicum-for-students.yonote.ru/share/1bbf4ba8-b941-4965-ba21-1a8c1d24fac4/doc/untitled-1UnkOsqiXq)
+, [мои пояснения и 2 задание](https://forg.yonote.ru/share/dc80f9a5-1f03-4815-a77e-164c71b356a8)
 
 ## Задание:
 Вам нужно написать функцию расчёта стоимости доставки.
