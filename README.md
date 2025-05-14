@@ -1,8 +1,8 @@
 # ya_test
 
-источник: https://practicum-for-students.yonote.ru/share/1bbf4ba8-b941-4965-ba21-1a8c1d24fac4/doc/untitled-1UnkOsqiXq
+[источник](https://practicum-for-students.yonote.ru/share/1bbf4ba8-b941-4965-ba21-1a8c1d24fac4/doc/untitled-1UnkOsqiXq)
 
-Задание:
+## Задание:
 Вам нужно написать функцию расчёта стоимости доставки.
 
 Стоимость рассчитывается в зависимости от:
@@ -44,15 +44,21 @@
 
 __________________________________________________________________________________________________________
 *__Установка:__*
+```
 pip3 install pytest
 pip3 install pytest_check
 и скачать репозиторий
-
-**__Запуск:__**
+```
+## **__Запуск:__**
 полная версия
+```
 python -m pytest
+```
 ![image](https://github.com/user-attachments/assets/d25a7675-bc95-4c38-8e81-a7677be66e96)
 
-с ошибками в 1 строку
+> [!TIP]
+> с ошибками в 1 строку
+```
 python -m pytest --tb=line
+```
 ![image](https://github.com/user-attachments/assets/408dc621-436b-4224-940e-d2a3603cbdb2)
